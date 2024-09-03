@@ -16,22 +16,22 @@ This project aims to explore these aspects by applying graph analytics methods t
 
 # Objectives
 
-1.1NETWORK CREATION AND EDGE IDENTIFICATION
+1.1NETWORK CREATION AND EDGE IDENTIFICATION<br>
 o Did manual imputation to preprocess the data and then converted them to
-dictionary and further to json files.
+dictionary and further to json files.<br>
 o Use cosine similarity to identify and visualize connections between subtopics.
 This involves calculating within-unit similarities, cross-unit similarities, and
-cross-program similarities to establish the edges between nodes.
-2 CENTRALITY MEASURES
+cross-program similarities to establish the edges between nodes.<br>
+2 CENTRALITY MEASURES<br>
 o Apply centrality measures to identify important nodes within the graphs. This
 includes evaluating which units or subunits hold significant positions in the
 network, providing insights into their relevance and impact on the overall
-curriculum structure.
-3 COMMUNITY DETECTION AND VISUALIZATION
+curriculum structure.<br>
+3 COMMUNITY DETECTION AND VISUALIZATION<br>
 o Detect and visualize communities within the network graphs. Communities
 represent groups of nodes with higher interconnectivity compared to nodes
-outside their group.
-4 SUB-GRAPH VISUALIZATION
+outside their group.<br>
+4 SUB-GRAPH VISUALIZATION<br>
 o Create and visualize detailed sub-graphs to illustrate specific aspects of the
 curriculum structure, such as the relationship between subunits within a unit or
 between units of different programs. These visualizations will aid in a more
